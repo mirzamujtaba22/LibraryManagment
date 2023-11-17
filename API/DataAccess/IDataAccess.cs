@@ -6,5 +6,7 @@ namespace API.DataAccess
     {
         int CreateUser(User user);
         bool IsEmailAvailable(string email);
+
+        //Function
     }
 }

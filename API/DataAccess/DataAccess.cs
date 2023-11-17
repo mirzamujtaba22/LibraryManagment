@@ -12,6 +12,7 @@ namespace API.DataAccess
         public bool IsEmailAvailable(string email)
         {
             throw new NotImplementedException();
+            //Function
         }
     }
 }
